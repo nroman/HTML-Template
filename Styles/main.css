@@ -1,0 +1,46 @@
+body{
+    background-image:url('img/background.jpg');
+}
+.workSpace
+{
+    background-color: #E6E6FA;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    min-height: 600px;
+    min-width: 500px;
+}
+.topMenu
+{
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.topMenu a
+{
+    padding: 5px;
+    border: 1px solid #808080;
+    background-color: #F5F5F5;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none; font-size: 1em;
+}
+.topMenu a:hover{
+    color: green;
+    background-color: #F5F5DC;
+}
+.dynamicBlock{
+    background-color: #FFF;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    margin: 10px;
+    min-height: 500px;
+}
+
